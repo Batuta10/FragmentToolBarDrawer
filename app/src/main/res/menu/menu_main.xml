@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnImpala"
+        android:title="@string/strImpala"
+        android:icon="@drawable/ic_drive_eta_black_24dp"/>
+    <item android:id="@+id/lotusElise"
+        android:title="@string/strLotus"
+        android:icon="@drawable/ic_drive_eta_black_24dp"/>
+    <item android:id="@+id/mnDelorean"
+        android:title="@string/strDelorean"
+        android:icon="@drawable/ic_drive_eta_black_24dp"/>
+    <item android:id="@+id/mnShelbymustang"
+        android:title="@string/strShelby"
+        android:icon="@drawable/ic_drive_eta_black_24dp"/>
+    <item android:id="@+id/mnPontiacGto"
+        android:title="@string/strGto"
+        android:icon="@drawable/ic_drive_eta_black_24dp"/>
+</menu>

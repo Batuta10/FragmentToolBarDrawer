@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FIAP</string>
+    <string name="strRm">RM78792</string>
+    <string name="strEu">Gabriel Costa (Batuta)</string>
+    <string name="strImpala">Impala 67</string>
+    <string name="strLotus">Lotus Elise</string>
+    <string name="strDelorean">Delorean</string>
+    <string name="strGto">Pontiac GTO 1967</string>
+    <string name="strShelby">Shelby Mustang</string>
+    <string name="strEscolha">Escolha um carro para mais informaçoes</string>
+    <string name="strAbre">Abre</string>
+    <string name="strFecha">Fecha</string>
+
+</resources>
