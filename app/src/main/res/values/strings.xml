@@ -13,5 +13,10 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strDeloreanInf">O DeLorean DMC-12 é um carro desportivo produzido inicialmente de 1981 a 1982 pela empresa automobilística norte-americana DeLorean Motor Company. O DeLorean DMC-12 ganhou status principalmente por aparecer na trilogia de filmes de ficção científica De volta para o Futuro.</string>
+    <string name="strGtoInf">Até a chegada do GTO, a divisão da GM chamada Pontiac era apenas o segundo degrau na escala de status entre as marcas da casa, situada entre Chevrolet e Oldsmobile. Graças a uma equipe de apaixonados por carros, a marca só desabrocharia nos anos 60. Filho de um ex-presidente da GM, Semon “Bunkie” Knudsen havia assumido a divisão em 1956. Ele queria fazer do desempenho o diferencial da Pontiac e contava com dois aliados, o engenheiro-chefe Elliott “Pete” Estes e seu então assistente John De Lorean.</string>
+    <string name="strImpalaInf">Chevrolet Impala é o carro de Dean, carinhosamente apelidado de Metallicar pelos fãs, originalmente pertencia a seu pai, John. Ele é visto pela primeira vez depois da morte de Mary, quando John se senta com seus filhos sobre o capô do carro, enquando sua casa queima. John, mais tarde, deu o carro para Dean, em seu aniversário de 18 anos, em 24 de janeiro de 1997. Em uma estranha reviravolta do destino, Dean é quem o convence a comprar o carro ao invés de uma Kombi, quando ele viaja de volta no tempo para 1973.</string>
+    <string name="strLotusInf">O Elise é um roadster compacto da Lotus. O Lotus Elise é um carro de dois assentos, concebido em 1994 e lançado em setembro de 1996 na Inglaterra.</string>
+    <string name="strShelbyInf">Quem assistiu ao filme 60 Segundos, de 2000, vai se lembrar de Eleanor, um belo Mustang Shelby GT500 1967 cobiçado por Randall Memphis Raines, um ladrão de carros interpretado pelo ator Nicolas Cage.</string>
 
 </resources>

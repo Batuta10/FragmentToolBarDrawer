@@ -7,8 +7,16 @@
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:textSize="30sp"
+        android:gravity="center"
+        android:layout_marginTop="20sp"
         android:text="@string/strLotus" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:text="@string/strLotusInf"/>
 
 </FrameLayout>
