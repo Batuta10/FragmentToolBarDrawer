@@ -3,7 +3,7 @@
     <item android:id="@+id/mnImpala"
         android:title="@string/strImpala"
         android:icon="@drawable/ic_drive_eta_black_24dp"/>
-    <item android:id="@+id/lotusElise"
+    <item android:id="@+id/mnlotusElise"
         android:title="@string/strLotus"
         android:icon="@drawable/ic_drive_eta_black_24dp"/>
     <item android:id="@+id/mnDelorean"

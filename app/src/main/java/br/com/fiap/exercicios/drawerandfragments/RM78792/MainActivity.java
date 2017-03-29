@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity {
                     getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new GtoFragment()).addToBackStack(null).commit();
                 }else if (item.getItemId() == R.id.mnShelbymustang){
                     getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new ShelbyFragment()).addToBackStack(null).commit();
+                }else if (item.getItemId() == R.id.mnlotusElise){
+                    getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, new LotusFragment()).addToBackStack(null).commit();
                 }
                 drawerLayout = (DrawerLayout) findViewById(R.id.drawerLayout);
                 drawerLayout.closeDrawer(GravityCompat.START);

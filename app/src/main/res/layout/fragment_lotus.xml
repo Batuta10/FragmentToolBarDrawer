@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:textSize="30sp"
         android:gravity="center"
-        android:layout_marginTop="20sp"
+        android:layout_marginTop="50sp"
         android:text="@string/strLotus" />
     <TextView
         android:layout_width="match_parent"
